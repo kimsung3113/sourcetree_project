@@ -8,7 +8,7 @@
 </head>
 <body>
 
-main에서 pull request 할 수 있게
+test2
 
 </body>
 </html>

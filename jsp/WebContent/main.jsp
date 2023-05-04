@@ -8,7 +8,7 @@
 </head>
 <body>
 
-user1브랜치 하나 만들어서 main 변경
+main에서 pull request 할 수 있게
 
 </body>
 </html>

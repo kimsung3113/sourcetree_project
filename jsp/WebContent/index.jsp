@@ -8,7 +8,7 @@
 </head>
 <body>
 
-jsp 프로젝트
+user1에서 메인에 push
 
 </body>
 </html>
